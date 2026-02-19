@@ -3,7 +3,7 @@
 Se realizó el desarrollo de la solución.
 Se integró correctamente con Stripe.
 
-Proyecto POS (Frontend): Razor
+Proyecto POS (Frontend): Razor (Web)
 Proyecto Servidor (Backend): ASP .Net Core Web API
 Stripe para simular los cobros.
 
