@@ -8,10 +8,10 @@ Proyecto Servidor (Backend): ASP .Net Core Web API
 Stripe para simular los cobros.
 
 Pasos para ejecutar Aplicación:
-1. Clonar el repositorio, y abrir la solución "PruebaTecnica.sln", que se encuentra dentro de la carpeta "Payments.Api".
-2. Modificar la SecretKey, del archivo appsetting.json, del proyecto servidor "Payments.Api".
+1. Clonar el repositorio, y abrir la solución "PruebaTecnica.sln", que se encuentra dentro de la carpeta "Payments.Api". 
+2. Modificar la SecretKey, del archivo appsetting.json, del proyecto servidor "Payments.Api". (En caso se requiera un cuenta diferente)
 3. Ejecutar el proyecto backend.
-4. Modificar la URL local del proyecto servidor, en el archivo "Program.cs" del proyecto "Payments.POS".
+4. Modificar la URL local del proyecto backend, en el archivo "Program.cs" del proyecto "Payments.POS", para que puedan comunicarse.
 5. Ejecutar el proyecto "Payments.POS" y visualizar la integración.
 
 Flujo completo operativo para los requerimientos planteados.
